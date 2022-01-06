@@ -1,7 +1,7 @@
 ### Olá !  👋
 
 
-- 🔭 Cursando VII semestre de Sistemas de Informação
+ Cursando VII semestre de Sistemas de Informação
 
 
  <div>
