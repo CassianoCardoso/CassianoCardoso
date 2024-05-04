@@ -1,7 +1,7 @@
 ### Olá !  👋
 
 
- Cursando VII semestre de Sistemas de Informação
+Bacharelado em  de Sistemas de Informação em 2023
 
 
  <div>
